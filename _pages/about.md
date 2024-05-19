@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "Hi, I'm Tuan!"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Hi, I'm Tuan!
 
 I'm a PhD Student in Machine Learning Applications at the Univeristy of Technology of Compiegne.
 
