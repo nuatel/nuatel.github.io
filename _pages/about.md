@@ -7,6 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+![AI and content writing](/images/AI meme.jpeg){: .align-right width="500px"}
+
+
 👋 **Hello there, I'm Tuan!**
 
 👨‍💻 I'm a PhD Student in Applied Machine Learning at the Univeristy of Technology of Compiegne.
